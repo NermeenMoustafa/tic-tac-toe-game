@@ -1,0 +1,33 @@
+div{
+  width:332px;
+  height:340px;
+  background-color: rgba(50,50,50,0.50);
+  margin-left: 450px;
+  margin-top: 90px;
+  border:2px solid black;
+
+}
+input{
+  border:2px solid black;
+  width:100px;
+  height:100px;
+  margin-top: 5px;
+  margin-left: 3px;
+  font-size: 7em;
+  text-align: center;
+  color:rgb(200,200,200);
+  background-color:rgba(0,0,0,0.5);
+}
+body{
+  background-image: url('../toc.jpg');
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+h1{
+  margin-left: 530px;
+  font-size: 40px;
+  font-weight: bold;
+  /* color:rgb(200,200,200); */
+  font-style: oblique;
+  color:black;
+}
